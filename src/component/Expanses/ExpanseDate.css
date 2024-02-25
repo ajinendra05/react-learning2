@@ -1,0 +1,28 @@
+.date-item {
+  background-color: #1b1717;
+  padding: 25px;
+  padding-top: 10px;
+  padding-bottom: 12px;
+  border: solid white 1.2px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.month {
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.year {
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.day {
+  padding-top: 5px;
+  color: white;
+  font-weight: 800;
+  font-size: 25px;
+}
